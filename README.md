@@ -1,1 +1,1 @@
-# bestNHLPlayers
+I improved upon my previous basketball players site attempt. The site is now responsive and should work better on all screen sizes. This improves accessibility although I am just now realizing I didn't use alt for my pictures. The players are neatly sorted in to their own containers. I also switched from px to rem.
